@@ -1,10 +1,14 @@
 {
   "name": "hsk-mock-exam",
   "displayName": "HSK Tutor",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "description": "HSK preparation with simple explanations, examples, HSK vocabulary and HSK grammar in chat. Choose your level and take an HSK mock test on hsk-tutor.com.",
   "author": { "name": "HSK Tutor", "url": "https://hsk-tutor.com" },
   "homepage": "https://hsk-tutor.com/mock-exam",
+  "privacyPolicyUrl": "https://hsk-tutor.com/claude/privacy",
+  "supportUrl": "https://hsk-tutor.com/claude/support",
+  "termsOfServiceUrl": "https://hsk-tutor.com/claude/terms",
+  "documentationUrl": "https://github.com/uranbekanarbaev/hsk-tutor-claude-plugin#readme",
   "repository": "https://github.com/uranbekanarbaev/hsk-tutor-claude-plugin",
   "license": "MIT",
   "keywords": ["HSK preparation", "HSK mock test", "HSK vocabulary", "HSK grammar", "Chinese"]

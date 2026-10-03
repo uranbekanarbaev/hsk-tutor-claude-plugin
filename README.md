@@ -1,5 +1,13 @@
 # HSK Tutor — chat preparation and website exams
 
+## Support and policies
+
+- [Plugin privacy policy](https://hsk-tutor.com/claude/privacy)
+- [Plugin support](https://hsk-tutor.com/claude/support)
+- [Plugin terms of use](https://hsk-tutor.com/claude/terms)
+- [Website privacy policy](https://hsk-tutor.com/privacy)
+
+
 This plugin teaches Chinese in chat using short Learn, Practise and Review sessions. It draws its teaching workflow from the HSK Tutor daily-study plan, without claiming access to the website's private course content or saved learner progress.
 
 One entry: say "HSK Tutor" and choose vocabulary, grammar, daily practice, review or a mock exam. A direct request skips the menu. Vocabulary defaults to 10 level-appropriate words. Daily teaching remains Learn → Practise → Review.
